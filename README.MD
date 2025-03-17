@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou Pedro Queiroga, estudante de Sistemas de Informação na Uniesp. Sou apaixonado por tecnologia, programação e a forma como sistemas podem ser projetados para resolver problemas reais.<br><br>Atualmente, estou focado(a) em aprimorar minhas habilidades em:<br><br>Desenvolvimento de Software 💻: trabalhando com [ como Java, Python e JavaScript.]<br>Banco de Dados 📊: desenvolvendo soluções com [SQL, MySQL.]<br>Desenvolvimento Web 🌐: criando aplicações front-end e back-end utilizando [HTML, CSS e Node.js.]<br>Metodologias Ágeis 📈: aprendendo sobre SCRUM e Kanban para melhor gestão de projetos.<br><br>Objetivos:<br>Aprofundar meus conhecimentos em arquitetura de software.<br>Contribuir para projetos de código aberto e colaborar com a comunidade.<br>Aprender novas tecnologias e linguagens de programação.</p>
+<p align="left">Olá! Eu sou Pedro Queiroga, estudante de Sistemas de Informação na Uniesp. Sou apaixonado por tecnologia, programação e a forma como sistemas podem ser projetados para resolver problemas reais.<br><br>Atualmente, estou focado em aprimorar minhas habilidades em:<br><br>Desenvolvimento de Software 💻: trabalhando com [ como Java, Python e JavaScript.]<br>Banco de Dados 📊: desenvolvendo soluções com [SQL, MySQL.]<br>Desenvolvimento Web 🌐: criando aplicações front-end e back-end utilizando [HTML, CSS e Node.js.]<br>Metodologias Ágeis 📈: aprendendo sobre SCRUM e Kanban para melhor gestão de projetos.<br><br>Objetivos:<br>Aprofundar meus conhecimentos em arquitetura de software.<br>Contribuir para projetos de código aberto e colaborar com a comunidade.<br>Aprender novas tecnologias e linguagens de programação.</p>
 
 ###
 
