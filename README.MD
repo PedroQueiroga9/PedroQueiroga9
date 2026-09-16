@@ -20,7 +20,7 @@
 
 ### 💻 pedro@dev:~$
 
-<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&height=45&lines=whoami+--stack;React+%C2%B7+Next.js+%C2%B7+TypeScript;Java+%C2%B7+Python+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Docker+%C2%B7+Git;status%3A+pronto+pra+construir+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&height=45&lines=whoami+--stack;React+%C2%B7+Next.js+%C2%B7+TypeScript;Java+%C2%B7+Python+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Docker+%C2%B7+Git;status%3A+pronto+pra+construir+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
