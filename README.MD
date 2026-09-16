@@ -16,19 +16,13 @@
 
 <br/>
 
-### 🧠 Sobre mim
+<div align="center">
 
-```python
-class Pedro:
-    def __init__(self):
-        self.role = "AI Engineer & Full Stack Developer"
-        self.focus = ["IA aplicada", "arquitetura de software", "produtos escaláveis"]
-        self.currently_learning = "sempre algo novo"
-        self.philosophy = "código limpo, funcional e sem gambiarra"
+### 💻 pedro@dev:~$
 
-    def say_hi(self):
-        return "Bora construir algo!"
-```
+<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=600&height=45&lines=whoami+--stack;React+%C2%B7+Next.js+%C2%B7+TypeScript;Java+%C2%B7+Python+%C2%B7+FastAPI;PostgreSQL+%C2%B7+Docker+%C2%B7+Git;status%3A+pronto+pra+construir+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
@@ -36,33 +30,13 @@ class Pedro:
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,java,python,fastapi,nodejs,express,postgres,sqlite,docker,git,github&theme=dark" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-**Dados & Infra**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-**IA**
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
 </div>
 
